@@ -1,0 +1,10 @@
+c:\users\jacob\source\repos\PushCounter\PushCounter\bin\Debug\PushCounter.exe.config
+c:\users\jacob\source\repos\PushCounter\PushCounter\bin\Debug\PushCounter.exe
+c:\users\jacob\source\repos\PushCounter\PushCounter\bin\Debug\PushCounter.pdb
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.csprojAssemblyReference.cache
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.cache
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.csproj.CoreCompileInputs.cache
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.exe
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.pdb
+c:\users\jacob\source\repos\PushCounter\PushCounter\obj\Debug\PushCounter.Form1.resources
